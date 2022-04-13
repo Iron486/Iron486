@@ -4,9 +4,11 @@ I’m currently a master degree student in Geophysics and I am willing to work i
 
 In my profile, I put my projects that I accomplished or those in which I am working on.
 
-For some projects, I tried to apply my domain knowledge in geoscience to solve some Data Science tasks (like in my Bachelor Thesis or with projects regarding well log data and the earthquake magnitude prediction from waveforms). 
+I did projects regarding classification of real world images, regression (for instance, salary prediction) and clustering problems (like establishing which countries are in most difficult economic conditions).
 
-Also, I accomplished other projects regarding classification of real world images, regression (for instance, salary prediction) and clustering problems (like establishing which countries are in most difficult economic conditions).
+But also, I tried to apply my domain knowledge in geoscience to solve some Data Science tasks (like in my Bachelor Thesis or with projects regarding well log data and the earthquake magnitude prediction from waveforms). 
+
+
 
 
 
