@@ -6,7 +6,7 @@ In my profile, I put my projects that I accomplished or those in which I am work
 
 I did projects regarding classification of real world images, regression (for instance, salary prediction) and clustering problems (like establishing which countries are in most difficult economic conditions).
 
-But also, I tried to apply my domain knowledge in geoscience to solve some Data Science tasks (like in my Bachelor Thesis or with projects regarding well log data and the earthquake magnitude prediction from waveforms). 
+But also, I tried to apply my domain knowledge in geoscience to solve some Data Science tasks (like I did in my Bachelor Thesis or with the Machine Learning contest in which I partecipated). 
 
 
 
