@@ -1,6 +1,6 @@
 👋 Hi, I’m Diego.
 
-I’m currently a 23 year-old master student in Geophysics. I am. planning a career in the Data Science/Machine Learning domain.
+I’m currently a 23 year-old master student in Geophysics. I am planning a career in the Data Science/Machine Learning domain.
 
 In my profile, I put my projects that I accomplished or those in which I am working on.
 
