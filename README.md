@@ -1,4 +1,4 @@
-👋 Hi, I’m Diego.
+Hi! 
 
 I’m currently a 23 year-old master student in Geophysics. I am planning a career in the Data Science/Machine Learning domain.
 
