@@ -6,7 +6,7 @@ In my repositories, I put the projects that I accomplished and those which I am 
 
 I accomplished tasks regarding classification of real world images, regression, clustering and Natural Language Processing.
 
-Moreover, I tried to apply my domain knowledge in geoscience to solve some Data Science tasks, using regression analysis. 
+Moreover, I tried to apply my domain knowledge in geoscience to solve some Data Science tasks, using regression analysis and statistical tests. 
 
 
 
