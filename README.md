@@ -1,6 +1,6 @@
 Hi! 
 
-I’m currently a 23 year-old master student in Geophysics and I am planning a career in the Data Science/Machine Learning domain.
+I’m currently a 23 year-old master student in Geophysics and I am planning a career in Data Science/Machine Learning.
 
 In my repositories, I put the projects that I accomplished and those which I am working on.
 
