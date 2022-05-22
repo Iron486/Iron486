@@ -1,12 +1,12 @@
 Hi! 
 
-I’m currently a 23 year-old master student in Geophysics. I am planning a career in the Data Science/Machine Learning domain.
+I’m currently a 23 year-old master student in Geophysics and I am planning a career in the Data Science/Machine Learning domain.
 
 In my repositories, I put the projects that I accomplished and those which I am working on.
 
-I accomplished tasks regarding classification of real world images, regression (for instance, salary prediction), clustering problems (like establishing which countries are in most difficult economic conditions) and Natural Language Processing.
+I accomplished tasks regarding classification of real world images, regression, clustering and Natural Language Processing.
 
-Moreover, I tried to apply my domain knowledge in geoscience to solve some Data Science tasks (take a look to 'SPWLA_PDDA_SIG_machine_learning_competition' and 'Bachelor Thesis'). 
+Moreover, I tried to apply my domain knowledge in geoscience to solve some Data Science tasks, using regression analysis. 
 
 
 
