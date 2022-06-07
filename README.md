@@ -4,9 +4,10 @@ I am currently a 23 year-old master student in Geophysics and I am planning a ca
 
 In my repositories, I load the projects that I accomplished and those which I am working on.
 
-I accomplished tasks on multiclass and binary classifications, regression, clustering and Natural Language Processing.
+I accomplished ML tasks on multiclass and binary classifications, regression, clustering, Natural Language Processing and 
+I uploaded some Python scripts used to develop some programs with a simple GUI.
 
-Furthermore, I tried to apply my domain knowledge in geoscience to accomplish some Data Science tasks, using regression analysis and statistical tests. 
+Furthermore, I performed some queries exercises in databases and I tried to apply my domain knowledge in geoscience to accomplish some Data Science tasks using regression analysis and statistical tests. 
 
 
 
