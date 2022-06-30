@@ -13,7 +13,7 @@ Furthermore, I solved some exercises using PostgreSQL and I tried to apply my do
 
 - 📫 Email --> diego.farchione@gmail.com
 - 📫 Linkedin --> https://www.linkedin.com/in/diego-farchione-6a99a9210/
-
+- 📫 Kaggle -->   https://www.kaggle.com/die9origephit/datasets
 <!---
 Iron486/Iron486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
