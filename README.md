@@ -7,7 +7,7 @@ In my repositories I load the projects that I completed and those which I am wor
 I accomplished ML tasks on multiclass and binary classifications, regression, clustering, NLP; and 
 I uploaded some scripts used to develop some small-scale programs with the Python GUI.
 
-Not only did I load scripts, but I also published open data obtained online or through web scraping, preprocessing them to be easily reusable by other users and acknowledging the authors.
+Not only did I load scripts, but I also published open data obtained online or through web scraping, preprocessing them to be easily reusable by other users.
 
 Furthermore, I solved some exercises using PostgreSQL and I tried to apply my domain knowledge in geoscience to accomplish some Data Science tasks using regression analysis and statistical tests. 
 
