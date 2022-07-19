@@ -5,7 +5,7 @@ I am currently a 23 year-old master's degree student in Geophysics, willing to p
 In my repositories I load the projects that I completed and those which I am working on.
 
 I accomplished ML tasks on multiclass and binary classifications, regression, clustering, NLP; and 
-I uploaded some scripts used to develop some small-scale programs with a Python GUI.
+I uploaded some scripts used to develop some small-scale programs with the Python GUI.
 
 Not only I loaded scripts, but also did I publish open data obtained online or through web scraping, acknowledging the authors and preprocessing them to be easily reusable by other users.
 
