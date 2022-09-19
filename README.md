@@ -12,10 +12,9 @@ Not only did I load scripts, but I also published open data obtained online or t
 Furthermore, I solved some exercises using PostgreSQL and I tried to apply my domain knowledge in geoscience to accomplish some Data Science tasks using regression analysis and statistical tests. 
 
 
-
+- 📫 Kaggle -->   https://www.kaggle.com/die9origephit/datasets
 - 📫 Email --> diego.farchione@gmail.com
 - 📫 Linkedin --> https://www.linkedin.com/in/diego-farchione-6a99a9210/
-- 📫 Kaggle -->   https://www.kaggle.com/die9origephit/datasets
 <!---
 Iron486/Iron486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
