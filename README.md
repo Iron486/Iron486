@@ -4,7 +4,7 @@ I am currently a 23 year-old master's degree student willing to pursue a career 
 
 In my repositories I load the projects that I completed and those which I am working on.
 
-I accomplished ML tasks on multiclass and binary classifications, regression, clustering, NLP; and 
+I accomplished ML tasks on multiclass and binary classifications, segmentation, regression, clustering, NLP; and 
 I uploaded some scripts used to develop some small-scale programs with the Python GUI.
 
 Not only did I load scripts, but I also published open data obtained online or through web scraping, preprocessing them to be easily reusable by other users.
