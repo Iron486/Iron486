@@ -1,7 +1,5 @@
 Hi! 
 
-I am currently a 23 year-old master's degree student willing to pursue a career in Data Science/Machine Learning.
-
 In my repositories I load the projects that I completed and those which I am working on.
 
 I accomplished ML tasks on multiclass and binary classifications, segmentation, regression, clustering, NLP; and 
